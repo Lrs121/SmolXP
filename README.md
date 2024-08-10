@@ -5,6 +5,12 @@
 
 **If you want to see stuff that I actually put proper time and work into, then please look at my other projects.** This project is just really small modifications in nLite that anyone could do easily, so please stop liking this. It's nothing special or even anything impressive. If you really want to continue this project yourself, fork it. I'm not going to work on this anytime in the future from what I can see.
 
+### 10th of August 2024 update:
+
+Right, you guys can **stop liking this** now. I really don't see why anyone should like this, even from a user standpoint. I'm sorry if this sounds very rude of me or anything. 
+
+**PLEASE**, I beg of you, go check out my other projects on my profile or either check out my best project so far, [LUM/MARINER](https://github.com/AFellowSpeedrunner/LUM-MARINER), which could do with some contributions.
+
 ## Description
 SmolXP is a compact version of Windows XP designed for use on low-performance computers or as a disposable operating system for testing purposes. Its small ISO and installation size make it suitable for use on older computers with limited resources. 
 
